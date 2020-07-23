@@ -1,5 +1,6 @@
 
 function random(n){
+    //n is just to intialise a value
      if(n.toString().length==8){
         return n;
     } else{
